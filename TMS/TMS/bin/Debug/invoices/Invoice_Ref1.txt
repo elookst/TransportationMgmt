@@ -1,0 +1,9 @@
+Invoice Number: 1
+Issue Date: 2021-12-06 12:00:00 AM
+Order ID: 8
+Distance: 276 km
+Trip Time: 8.15
+Surcharge: $ 0
+Total Due: $ 1393.8
+
+Invoices are due within 30 days of issue date
